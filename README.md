@@ -1,6 +1,6 @@
 # How to implement pagination in a web application
 
-This project show how to implement pagination system in the back-end and front-end
+This project shows how to implement a pagination system in the back-end and front-end
 
 ## Getting Started 🚀
 
